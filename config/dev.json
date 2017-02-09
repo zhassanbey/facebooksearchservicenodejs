@@ -1,0 +1,22 @@
+{
+    "TYPE":"top",
+    "PAGE_LIMIT":3,
+    "FACEBOOK_SERVICE_URL":"localhost",
+    "FACEBOOK_SERVICE_PORT":"8082",
+    "RABBIT_HOST":"france3.alem.kz",
+    "RABBIT_PORT":"5672",
+    "RABBIT_USERNAME":"facebook-crawler",
+    "RABBIT_PASSWORD":"facebook",
+    "INPUT_Q":"insta-topics-q",
+    "OUTPUT_Q":"fbFetcher",
+    "INPUT_X":"insta-topics-x",
+    "OUTPUT_X":"fbFetcher",
+    "INPUT_KEY":"insta-topics-q",
+    "OUTPUT_KEY":"pro",
+    "PREFETCH_COUNT":50,
+    "DB_HOST":"devmonitoring",
+    "DB_PORT":"5432",
+    "DB_USERNAME":"postgres",
+    "DB_PASSWORD":"1234567890",
+    "TIMEOUT":600000
+}
