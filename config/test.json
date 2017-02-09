@@ -1,9 +1,9 @@
 {
     "TYPE":"top",
     "PAGE_LIMIT":3,
-        "FACEBOOK_SERVICE_URL":"52.208.121.15",
+    "FACEBOOK_SERVICE_URL":"facebookservice-test",
     "FACEBOOK_SERVICE_PORT":"8082",
-    "RABBIT_HOST":"94.23.5.111",
+    "RABBIT_HOST":"rabbitmq-test",
     "RABBIT_PORT":"5672",
     "RABBIT_USERNAME":"facebook-crawler",
     "RABBIT_PASSWORD":"facebook",
